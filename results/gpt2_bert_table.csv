@@ -1,0 +1,7 @@
+,valid_names,unique_%,novel_%,plausibility (BERT P(real)),params,val_bpc,test_bpc,train_s,cpu_ms_per_name
+GPT-2 zero-shot prompt,124.0,100.0,91.935,0.752,124439808.0,,,,
+GPT-2 few-shot prompt,196.0,99.49,89.231,0.803,124439808.0,,,,
+GPT-2 fine-tuned,1000.0,99.9,79.58,0.907,124439808.0,2.544,2.546,772.358,323.679
+Mini-Transformer (ref),1000.0,100.0,83.4,0.918,,,,,
+Reference: real test names,,,,0.888,,,,,
+Reference: corrupted names,,,,0.132,,,,,

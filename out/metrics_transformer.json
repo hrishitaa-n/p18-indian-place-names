@@ -1,0 +1,8 @@
+{
+  "params": 1785408,
+  "train_seconds": 337.4,
+  "val_bpc": 2.492372489890828,
+  "test_bpc": 2.4917310518389053,
+  "epochs": 6,
+  "train_names": 295055
+}

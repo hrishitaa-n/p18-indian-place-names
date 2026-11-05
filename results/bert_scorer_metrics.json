@@ -1,0 +1,5 @@
+{
+  "bert_heldout_accuracy": 0.919,
+  "mean_p_real_real": 0.8881667426904897,
+  "mean_p_real_corrupted": 0.13232890722597948
+}
