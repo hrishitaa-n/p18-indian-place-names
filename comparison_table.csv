@@ -1,0 +1,3 @@
+,params,val_bpc,test_bpc,train_s,unique_%,novel_% (of unique),cpu_ms_per_name
+Mini-Transformer,1785408.0,2.492,2.492,351.3,99.9,84.384,49.713
+Char-LSTM,1759461.0,2.442,2.443,269.6,100.0,80.6,41.502
