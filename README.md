@@ -2,7 +2,7 @@
 
 A tiny decoder-only transformer, written from scratch in PyTorch, that invents new Indian place names. It is compared with a character LSTM and a fine-tuned GPT-2 small, and deployed as a public Streamlit app with a safety filter.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app  <!-- replace with your Streamlit URL -->
+**Live app:** [https://YOUR-APP-NAME.streamlit.app](https://your-app-name.streamlit.app/)  <!-- replace with your Streamlit URL -->
 
 ## What it does
 Type optional starting letters, choose a temperature (0.3 to 1.5) and how many names (1 to 10), and get new place names. Add a seed to reproduce the same output. Generated names pass a blocklist filter first, and the app shows how many names it sampled, how many duplicates it removed and how many the filter blocked.
